@@ -2,7 +2,7 @@
 
 Hello anyone reading this!
 <br>
-This github repo is for a react website that I am making, following a YT Tutorial. I have used React before but it has been a while so I wanted to use this tutorial to refresh my memory in order to make a website for my Chrome extension Trilogy. The YT Tutorial can be found here: https://www.youtube.com/watch?v=nEQhafa37-c&t=442s.
+This GitHub repo is for a React.js website that I am making, following a YT Tutorial. I have used React.js before but it has been a while so I wanted to use this tutorial to refresh my memory in order to make a website for my Chrome extension Trilogy. The YT Tutorial can be found here: https://www.youtube.com/watch?v=nEQhafa37-c&t=442s.
 <br><br>
 I will be updating this repo when I have made visual progress on the website.
 
