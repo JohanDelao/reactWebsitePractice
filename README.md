@@ -6,6 +6,13 @@ This GitHub repo is for a React.js website that I am making, following a YT Tuto
 <br><br>
 I will be updating this repo when I have made visual progress on the website.
 
+(8/12 Update)
+I have made progress on the practice website, the current state of the website looks like this:
+<br><br>
+<img src = 'https://github.com/JohanDelao/reactWebsitePractice/blob/master/practiceWebsite820.PNG' title='firstUpdate' height='600px' width='800px' alt=''/>
+<br><br>
+This Youtube video has helped me a lot refreshing my React.js knowledge while also teaching me new things and new ways to write the code. Very useful!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
