@@ -1,3 +1,11 @@
+## Johan's Message
+
+Hello anyone reading this!
+<br>
+This GitHub repo is for a React.js website that I am making, following a YT Tutorial. I have used React.js before but it has been a while so I wanted to use this tutorial to refresh my memory in order to make a website for my Chrome extension Trilogy. The YT Tutorial can be found here: https://www.youtube.com/watch?v=nEQhafa37-c&t=442s.
+<br><br>
+I will be updating this repo when I have made visual progress on the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
