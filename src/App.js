@@ -1,4 +1,5 @@
-import { createTheme } from '@material-ui/core/styles';
+import { createTheme, ThemeProvider } from '@material-ui/core/styles';
+import NavBar from './components/navBar';
 import './App.css';
 
 const theme = createTheme({
@@ -23,26 +24,16 @@ const theme = createTheme({
       fontWeight: 100,
       lineHeight: '2rem',
     },
-    },
+  },
 })
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <ThemeProvider theme={theme}>
+        {/* Note when calling the import, it cannot be in camel case, it must start with a capital letter*/}
+         <NavBar></NavBar>
+      </ThemeProvider>
     </div>
   );
 }
