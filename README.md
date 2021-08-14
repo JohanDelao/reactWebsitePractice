@@ -12,6 +12,9 @@ I have made progress on the practice website, the current state of the website l
 <img src = 'https://github.com/JohanDelao/reactWebsitePractice/blob/master/practiceWebsite820.PNG' title='firstUpdate' height='600px' width='800px' alt=''/>
 <br><br>
 This Youtube video has helped me a lot refreshing my React.js knowledge while also teaching me new things and new ways to write the code. Very useful!
+<br><br>
+(8/13 Update)
+Completed the tutorial, definitely learned a lot and will implement them on my react website for my Chrome Extension Trilogy. The things learned will definitely help me as well in my upcoming ColorStack program where I will be using React.js
 
 # Getting Started with Create React App
 
